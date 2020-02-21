@@ -1,0 +1,15 @@
+current directory: /Users/richardschaubeck/Desktop/AA_homeworks/W5D5/skeleton_n_plus_one/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200220-95521-1jkrqq3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/richardschaubeck/Desktop/AA_homeworks/W5D5/skeleton_n_plus_one/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/richardschaubeck/Desktop/AA_homeworks/W5D5/skeleton_n_plus_one/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/richardschaubeck/Desktop/AA_homeworks/W5D5/skeleton_n_plus_one/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200220-95521-1c6mhrz/bindex
